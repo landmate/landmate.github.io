@@ -44,7 +44,7 @@ The project is currently located in Lüneburg, Germany - that is where I study. 
 
 ## Contact
 
-The project is currently maintained by Vitus Lehner. You can contact me via the following email address: vitus at landmate.org
+The project is currently maintained by Vitus Lehner. You can contact me via the following email address: [vitus@landmate.org](mailto:vitus@landmate.org)
 
 ## Thanks
 
