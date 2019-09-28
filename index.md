@@ -2,8 +2,6 @@
 excerpt: the open source agroecology robot
 ---
 
-# landmate
-
 landmate is an attempt of an open robot platform aimed at supporting sustainable agricultural practices, such as organic farming, agroecology and permaculture. landmate targets mixed-crop cultivation, diversified landscapes, low use of external inputs, biodiversity and conservation, and use of ecosystem synergies. In contrary, most (commercial) agricultural robots target monocultural, high-input practices.
 
 ## Project aims
